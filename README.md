@@ -11,7 +11,7 @@ torch-sparse离线安装包
 
 【whl】https://pytorch-geometric.com/whl/
 
-5、torch-scatter离线安装包
+torch-scatter离线安装包
 
 【tar.gz】https://pypi.tuna.tsinghua.edu.cn/simple/torch-scatter/
 
@@ -19,11 +19,11 @@ torch-sparse离线安装包
 
 【github】https://github.com/rusty1s/pytorch_scatter
 
-6、torch-spline-conv离线安装包
+torch-spline-conv离线安装包
 
 【whl】https://pytorch-geometric.com/whl/
 
-6、torch-geometrics
+torch-geometrics
 
 【官方文档】https://pytorch-geometric.readthedocs.io/en/latest/index.html
 
@@ -33,6 +33,8 @@ torch-sparse离线安装包
 
 【github】https://github.com/rusty1s/pytorch_geometric
 
-7、torch-geometrics对应的各个版本python及torch-sparse、torch-scatter、torch-spline：
+torch-geometrics对应的各个版本python及torch-sparse、torch-scatter、torch-spline：
 
 https://pytorch-geometric.com/whl/
+
+                                                                                                           转载：https://blog.csdn.net/u013313168/article/details/104793177/
