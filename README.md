@@ -37,4 +37,4 @@ torch-geometrics对应的各个版本python及torch-sparse、torch-scatter、tor
 
 https://pytorch-geometric.com/whl/
 
-                                                                                                           转载：https://blog.csdn.net/u013313168/article/details/104793177/
+                                            转载：https://blog.csdn.net/u013313168/article/details/104793177/
